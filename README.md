@@ -96,6 +96,7 @@ The "wow factor" of this AI-powered diabetic retinopathy detection system is its
 - <b>Better UI/UX Interface:</b> There can be improvements with the UI/UX interface with the model providing a better experience for the users.
 <h2>Tutorial </h2>
 For further assistance in using DR VISION. Watch this video.👇
+https://youtu.be/OshYvyRuWTE
 
 <ul><li>Click here to watch </li></ul>
 
